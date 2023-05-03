@@ -1,2 +1,2 @@
 # Discussions
-REspository for hosting Discussions
+Repository for hosting Discussions
